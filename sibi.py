@@ -14,4 +14,4 @@ for i in m8:
 if(s7==0):
    print(t7)
 else:
-   print("it's not posiible to select coins in such a way that they sum upto",S)      
+   print("it's not posiible to select coins in such a way that they sum upto",S8)      
